@@ -1,0 +1,138 @@
+.topo{
+    background-color: #a3d4e7;
+    text-align: center;
+    height: 400px;
+}
+
+.link-topo{
+    margin-left: 25px;
+    color: black;
+}
+
+.banner{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.secao{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.hsecao{
+    color: rgb(9, 119, 119);
+}
+
+.servicos{
+    text-align: center;
+    background-color: #00b7ff;
+    height: 400px;
+   
+}
+
+.hservicos{
+    padding-top: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pservico{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    line-height: 32px;
+    text-align: justify;
+    width: 700px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+
+li{
+    margin-left: 750px;
+    text-align: justify;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+b{
+    color: yellow;
+}
+
+.Corretores{
+    text-align: center;
+}
+
+.hcorretores{
+    padding-top: 25px;
+    color: #00b7ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Contato{
+    text-align: center;
+    background-color: #00b7ff;
+    height: 650px;
+    
+}
+
+.hcontato{
+    color: white;
+}
+
+.pcontato{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    width: 820px;
+    margin-left: 350px;
+}
+
+.linkdebaixo{
+    background-color: white;
+    border-radius: 15px;
+    padding: 2px 5px;
+}
+
+.linkdebaixo2{
+    background-color: white;
+    border-radius: 15px;
+    padding: 2px 5px;
+}
+
+.linkdebaixo3{
+    background-color: white;
+    border-radius: 15px;
+    padding: 2px 5px;
+}
+
+div{
+    margin-top: 25px;
+}
+
+.hcontato{
+    padding-top: 25px;
+}
+
+.psecao{
+    width: 800px;
+    margin-left: 400px;
+    text-align: justify;
+}
+
+.imgbanner{
+    width: 600px;
+}
+
+.imgcorretores{
+    width: 600px;
+}
+
+.pcorretores{
+    width: 800px;
+    margin-left: 400px;
+    text-align: justify;
+}
+
+span{
+    color:#00b7ff ;
+}
